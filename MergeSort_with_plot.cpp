@@ -2,6 +2,7 @@
 *mergeSort_with_plot_graph.cpp: To sort a random generated numbers of arrays
 *using the merge sort approach
 *Date: 23-02-2020
+*Plotting graph can be viewed using the plot.dat file
 */
 
 #include <iostream>
